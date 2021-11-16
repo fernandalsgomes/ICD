@@ -8,4 +8,4 @@ Professor: Yuri Fahham Saporito
 
 Tema: Modelos de Regressão
 
-Orientações sobre o trabalho: https://github.com/fernandalsgomes/ICD/Enunciados.pdf
+Orientações sobre o trabalho: https://github.com/fernandalsgomes/ICD/blob/main/Enunciados.pdf
