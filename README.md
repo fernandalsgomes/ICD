@@ -4,8 +4,8 @@ Repositório contendo as soluções para a A2 da disciplina Introdução à Ciê
 
 Equipe: Fernanda Luísa Silva Gomes e João Lucas Duim
 
-Professor: Yuri Fahham Saporito
+Professor: [Yuri Fahham Saporito](https://emap.fgv.br/corpo-docente/yuri-fahham-saporito)
 
 Tema: Modelos de Regressão
 
-Orientações sobre o trabalho: https://github.com/fernandalsgomes/ICD/blob/main/Enunciados.pdf
+Orientações sobre o trabalho: https://github.com/jlduim/ICD/blob/main/Enunciados.pdf
