@@ -1,10 +1,10 @@
-# A2 - Introdução à Ciência de Dados
+# Introdução à Ciência de Dados
 
 Repositório contendo as soluções para a A2 da disciplina Introdução à Ciência de Dados da graduação em Ciência de Dados e Inteligência Artificial pela FGV EMAp.
 
 Equipe: Fernanda Luísa Silva Gomes e João Lucas Duim
 
-Professor: [Yuri Fahham Saporito](https://emap.fgv.br/corpo-docente/yuri-fahham-saporito)
+Professor: [Yuri Fahham Saporito](https://emap.fgv.br/professores/yuri-fahham-saporito)
 
 Tema: Modelos de Regressão
 
